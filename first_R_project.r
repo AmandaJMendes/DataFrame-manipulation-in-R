@@ -40,7 +40,7 @@ top20 = top20[, -c(3, 4)]
 colnames(top20)[1] <- "Position"
 colnames(top20)[2] <- "Previous"
 
-#Add missing columns in the others dataframe ans set the missing values to NA
+#Add missing columns in the others dataframe and set the missing values to NA
 
 for (i in colnames(top20)){
     if (!(i %in% colnames(others))){
