@@ -1,1 +1,3 @@
-# DataFrame-manipulation-in-R
+# DataFrame manipulation in R
+
+I've developed this project to practice my new skills using R programming language, which include web scraping with httr and rvest and manipulation of data frames. Since this is my first time programming in R, this application was useful for me to get familiar with the syntax and semantics of the language as well as its basic data and control structures. This project was based on the final assignment of the "Introduction to R Programming for Data Science" course by IBM. My goals were to get the data from a table on a web page and use this data to explore the tools provided by R for data frame manipulation.
